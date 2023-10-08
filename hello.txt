@@ -13,4 +13,4 @@ hello xinman!
 hello xinman!
 <<<<<<< HEAD
 hello xinman!master
-hello xinman!hot-fix
+hello xinman!hot-fix1
