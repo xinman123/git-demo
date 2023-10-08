@@ -11,5 +11,6 @@ hello xinman!
 hello xinman!
 hello xinman!
 hello xinman!
+<<<<<<< HEAD
 hello xinman!master
-hello xinman!
+hello xinman!hot-fix
